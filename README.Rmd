@@ -20,10 +20,20 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 ## Step 12.2
 
+Alli Engels - I was able to do this step easily. Once I was able to copy the link I got it into my Rstudio easily. 
+
 ## Step 12.3
+
+Alli Engels - I was only able to get the Read.rmd file to work correctly not the Read.md like the directions used. 
 
 ## Step 12.4
 
+Alli Engels - I struggled her to find the correct place to send my commits to and it took a minute to do it the correct way. 
+
 ## Step 12.5
 
+Alli Engels - This step worked once I figured out the previous step. 
+
 ## Step 12.6
+
+Alli Engels - This step took a few tries to see the inputs but I was able to figure out how to see it in the remote github. 
