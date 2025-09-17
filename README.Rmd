@@ -28,7 +28,7 @@ Alli Engels - I was only able to get the Read.rmd file to work correctly not the
 
 ## Step 12.4
 
-Alli Engels - I struggled her to find the correct place to send my commits to and it took a minute to do it the correct way. 
+Alli Engels - I struggled her to find the correct place to send my commits to and it took a minute to do it the correct way. I did not realize at first I had to make sure to save my changes before trying to commit them. 
 
 ## Step 12.5
 
